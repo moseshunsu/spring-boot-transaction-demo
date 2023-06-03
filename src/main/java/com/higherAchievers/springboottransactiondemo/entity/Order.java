@@ -28,5 +28,5 @@ public class Order {
     private LocalDateTime dateCreated;
     @UpdateTimestamp
     private LocalDateTime lastUpdated;
-    private Long shoppingCardId;
+    private Long shoppingCartId;
 }
